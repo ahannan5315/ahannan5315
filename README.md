@@ -29,11 +29,12 @@ I enjoy working with data, exploring patterns, writing SQL queries, and creating
 - 📚 Always learning and improving my technical skills
 
 
+
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahannan5315&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ahannan5315&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahannan5315&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ahannan5315&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
