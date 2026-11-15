@@ -1,3 +1,4 @@
+![Abdul Hannan - Aspiring Data Analyst](profile-banner.png)
 # Hi, I'm Abdul Hannan 👋
 
 ### Aspiring Data Analyst | SQL Server | Tableau | Excel
